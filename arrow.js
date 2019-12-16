@@ -33,4 +33,5 @@ const event={
         })
     }
 }
+debugger
 event.printGuestList()
